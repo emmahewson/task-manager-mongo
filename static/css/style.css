@@ -18,3 +18,8 @@
 .card-action a {
     margin: 5px;
 }
+
+.modal {
+    color: black;
+    text-shadow: none;
+}
