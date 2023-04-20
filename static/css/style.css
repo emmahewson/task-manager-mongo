@@ -14,3 +14,7 @@
     margin: 5px;
     line-height: 42px;
 }
+
+.card-action a {
+    margin: 5px;
+}
